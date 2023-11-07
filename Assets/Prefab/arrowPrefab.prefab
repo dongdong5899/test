@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: e69af3d07a156b14290925fafd70af78, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.572327, g: 0.9654089, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -95,7 +95,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5512320598443889264}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e7310181b4c40ae4da4c86cf49863457, type: 3}
+  m_Script: {fileID: 11500000, guid: 57354b4e5ee4b654dad2a9f2e81ac488, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!61 &2242075399888328216
